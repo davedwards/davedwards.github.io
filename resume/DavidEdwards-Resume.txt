@@ -1,0 +1,77 @@
+David Edwards
+Hawthorne, CA
+davidedwardslaca@gmail.com
+davedwards.github.io
+512-998-1729
+
+JOB RELATED SUMMARY
+•   Accomplished Software Engineer who holds Bachelor’s Degree in Computer Science from California State University.
+•   Core languages experience: C/C++ 3 years, Python 10 years. Java 4 years.
+•   Experienced python backend, API and GUI tool developer.
+•   10+ years experience with Git and Subversion repository code version control system and working in Agile / Scrum team project development.
+•   Project experiences include creating dynamic web/mobile applications using: HTML5, CSS3, MySQL, Java, Python on UNIX/Linux and Windows platforms.
+•   18+ years Linux OS experience.
+
+EDUCATION
+•   Bachelor of Science in Computer Science, California State University, Los Angeles, CA 2014
+•   Associates of Computer Science- San Diego City College, CA 2009
+
+PROFESSIONAL EXPERIENCE
+Qualcomm, San Diego, CA                                                                    July 2020-June 2023
+Engineer I
+Software Content Compliance Linux Open Source team:
+•   Built tools in automation to streamline development processes utilizing Python, React, Java, C++, C, and Shell Script.
+•   Reviewed in-house developer code for open source compliance.
+•   Developed and maintained open source compliance review automation systems.
+•   Developed a web API for Open Source team to curate and manage SBOM (Software Bill of Materials) reports.
+•   Support engineering teams in managing open source compliance. 
+
+Saatchi & Saatchi, Torrance, CA                                                            October 2015 - July 2019
+Python Developer
+•   Developed in-house tools and scripts using Python, PyQt, PySide and JavaScript in Maya, Nuke, Shotgun and Photoshop.
+•   Maintained Python codebase connecting to Deadline hooks and exits for Autodesk Maya, The Foundry Nuke, Shotgun Software, and Thinkbox Deadline.
+•   Evaluate and test new applications, software, and workflows to improve production.
+•   Developed an ingestion system to automate build data sheets for annual garage CAD data from Japan utilizing Unreal Engine.
+
+DIRECTV, Marina Del Ray, CA                                                                April 2015 – June 2015
+Software Engineer
+•   Modified and created scripts responsible for talking to pieces of communications and satellite equipment using Java and Groovy programming languages.
+•   Built front-end UI to monitor and maintain cable TV network traffic using a combination of third-party products and Groovy.
+
+theAudience.com, Los Angeles, CA                                                           October 2014 – January 2015
+Data Analyst/Developer
+•   Created data collection scripts in Python to collect and store data from various social media sources utilizing social media's API.
+•   Provided insights to what information can be determined from each social media data source.
+•   Maintained and extended internal APIs to served stored data to other applications.
+•   Maintained and extended internal report generation tools.
+•   Worked with other development teams to create client facing reports.
+
+INTERNSHIPS AND PROJECTS
+General Motors Sponsored EcoCar2 Competition, Los Angeles, CA                              January 2014 – June 2014
+QT/QML/C++ GUI Developer
+•   Developed a GUI interface for an embedded system which runs C++ on a Freescale i.MX 6 Sabre ARM board.
+•   Used a custom Linux kernel to program the Freescale board.
+•   Used C++ to transmit and receive CAN signals over the vehicle's CAN bus.
+•   Developed a user interface using Qt QML library to create software-based controls to replace radio and climate control mechanical buttons while continually displaying live diagnostic data signals.
+•   Read and write CAN signals from the car, translating them using a Linux driver, and implemented in QML, C++ to display interactive touch screen controls on the vehicle display console.
+•   Tested onboard program inside vehicle with live controller area network signals.
+•   Debugged onboard program through serial cable.
+•   Worked with a team of 6 developers on computer science portion of project.
+•   Project Website: http://csns.calstatela.edu/department/cs/project/view?id=4556961
+
+Boeing Company, El Segundo CA                                                              August 2013 – January 2014
+Test Framework Developer
+•   Built a test framework to automate testing for Boeing 702SP operations satellites by developing a system in Java and Python that automates the conversion of TCL/Tk-encoded test cases into Sikuli-readable JSON using the Java ANTLR parser.
+•   Identified and extracted test cases from TCL/Tk and Perl scripts using ANTLR into an interactive user interface in Java’s JGraphx API for test engineers to select test cases, then using Sikuli, a GUI automation tool that was used to replace the test engineer, automate the process on the satellite simulator and produce a log report for later review.
+•   The final result was successful in optimizing testing, while saving Boeing Company time and money.
+•   Project Website: http://csns.calstatela.edu/department/cs/project/view?id=4556960
+
+PCWerk.com, Playa Vista, CA                                                                January 2013 – June 2013
+Project Developer
+•   Wrote a program that performed data scraping from Yelp’s website using Python and Selenium Web driver, and Yelp API.
+•   Deployed this program on a Hadoop single-node cluster setup on Ubuntu Linux.
+•   Performed Data Mining and Data Warehousing with MapReduce operations on single-node HDFS on Ubuntu Linux.
+•   Used Yelp API access for data collection.
+•   Performed data classification and data massaging from JSON to CSV text.
+•   Calculated Data analysis on yelp datasets from Yelp API using python while utilizing python extension library pylab.
+•   Created and presented data visualization using python matplotlib and google maps API Hosted at: https://github.com/pcwerk
