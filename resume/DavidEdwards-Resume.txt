@@ -6,7 +6,7 @@ davedwards.github.io
 
 JOB RELATED SUMMARY
 •   Accomplished Software Engineer who holds Bachelor’s Degree in Computer Science from California State University.
-•   Core languages experience: C/C++ 3 years, Python 10 years. Java 4 years.
+•   Core languages experience: C/C++ 6 years, Python 10 years. Java 6 years.
 •   Experienced python backend, API and GUI tool developer.
 •   10+ years experience with Git and Subversion repository code version control system and working in Agile / Scrum team project development.
 •   Project experiences include creating dynamic web/mobile applications using: HTML5, CSS3, MySQL, Java, Python on UNIX/Linux and Windows platforms.
@@ -15,16 +15,23 @@ JOB RELATED SUMMARY
 EDUCATION
 •   Bachelor of Science in Computer Science, California State University, Los Angeles, CA 2014
 •   Associates of Computer Science- San Diego City College, CA 2009
+•   US Naval Air Technical Training Center (NATTC) - US Naval Aviation Technician Intermediate "I" Level Training, Aviation Technician
+•   Naval Nuclear Power Training Command (NNPTC) - Electrician's Mate (EM) Class "A", Naval Nuclear Propulsion Program
+
 
 PROFESSIONAL EXPERIENCE
 Qualcomm, San Diego, CA                                                                    July 2020-June 2023
 Engineer I
 Software Content Compliance Linux Open Source team:
-•   Built tools in automation to streamline development processes utilizing Python, React, Java, C++, C, and Shell Script.
+•   Develop, maintain, and operate software scanning automated tools using C/C++, Python, Docker, Bash scripts.
+•   Overview embedded software product development lifecycle of Open Source Systems for Android, Linux, Arm, Kernel, GNU.
 •   Reviewed in-house developer code for open source compliance.
 •   Developed and maintained open source compliance review automation systems.
 •   Developed a web API for Open Source team to curate and manage SBOM (Software Bill of Materials) reports.
 •   Support engineering teams in managing open source compliance. 
+•   Built tools in automation to streamline development processes utilizing C/C++, Python, Docker, Django, Linux/Scripts (Python, Bash, JS), JavaScript, Node.js, React.js, other JS variants. 
+•   Systems used: Jira, Gerrit, Git/GitHub, Docker, Django, Microsoft suite of tools.
+
 
 Saatchi & Saatchi, Torrance, CA                                                            October 2015 - July 2019
 Python Developer
