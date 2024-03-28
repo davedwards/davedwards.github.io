@@ -1,10 +1,20 @@
 /*We have already set the text-align property as center in the HTML code. Below provided CSS is added just to make the output look better.*/
 
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 200 to 1000
+
+.mulish-<uniquifier> {
+  font-family: "Mulish", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
 body {
      margin: auto;
      width: 640px;
      padding: 50px;
-     font-family: 'Avenir', sans-serif;
+     font-family: "Mulish", "Programme Light", Avenir, sans-serif;
      //color: #33475b;
 }
 
