@@ -22,17 +22,14 @@ PROFESSIONAL EXPERIENCE
 Qualcomm, San Diego, CA                                                                    July 2020-June 2023
 Embedded Software Engineer
 Embedded Software Content Compliance and Linux Open Source team:
-•	Developed, debugged, and deployed embedded C/C++ code in firmware, device drivers performing bring-up for display systems on Qualcomm SoCs.
-•	Provide board support package (BSP) in Bluetooth, GPS, Qualcomm’s proprietary modem, camera and UI interface in Android RTOS for Qualcomm Snapdragon SoC processor on device.
-•	Developed firmware device driver support for Daimler AG/Mercedez-Benz on Qualcomm’s SnapDragon SoC running GPS, Bluetooth devices installed in Mercedez-Benz electric vehicles with automated navigation capability.
-•	Developed C++ embedded code communicating Tx/Rx CAN signals over the vehicle's CAN bus.
-•	Developed a React.js Docker web REST API using Django backend for Open Source team to curate and manage SBOM (Software Bill of Materials) reports.
-•	Built automation tools running in Amazon AWS EC2 tiers to streamline development processes utilizing C/C++, Python, Docker, Django, Linux/Scripts (Python, Bash, JS), JavaScript, Node.js, React.js, other JS variants.
-•	Develop, maintain, and operate software scanning automated tools using C/C++, Python, Docker, Bash scripts.
-•	Overview embedded software product development lifecycle of Open Source Systems for Android, Linux, Arm, Kernel, GNU.
-•	Reviewed in-house developer code for open source compliance, developed and maintained open source compliance review automation systems, supporting engineering teams in managing open source compliance.
-•	Systems used: Jira, Gerrit, Git/GitHub, Docker, Django, Microsoft suite of tools.
-
+•   Supported C/C++ implementation and code review for embedded device driver/firmware updates of modem, GPS, WiFi, Camera, Bluetooth releases for Android and Apple OS running Qualcomm SnapDragon SoCs.
+•   Develop, maintain, and operate software scanning automated tools using C, C++, Qt, Python, Docker, and Bash scripts.
+•   Developed and maintained open source compliance review automation systems.
+•   Built from scratch a front end React.js, Django REST API framework Web API, PostgreSQL DB for to curate and manage SBOM (Software Bill of Materials) report generation by Open Source team.
+•   Built tools in automation to support testing and verification of large codebases that streamline development processes utilizing C/C++, Python, Docker, Django, Linux/Scripts (Python, Bash, JS), JavaScript, Node.js, React.js, other JS variants. 
+•   Overview embedded software product development lifecycle of Open Source Systems for Android, Linux, Arm, Kernel, GNU.
+•   Reviewed in-house developer code for open source compliance, supporting engineering teams in managing open source compliance. 
+•   Systems used: Jira, Gerrit, Git/GitHub, Docker, Django, Microsoft suite of tools.
 
 ABCO Technology Institute                                                                  August 2019 - Sept 2020
 Inglewood, CA
