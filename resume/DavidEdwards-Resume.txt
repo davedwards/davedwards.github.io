@@ -29,6 +29,16 @@ Embedded Software Content Compliance and Linux Open Source team:
 •   Built tools in automation to support testing and verification of large codebases that streamline development processes utilizing C/C++, Python, Docker, Django, Linux/Scripts (Python, Bash, JS), JavaScript, Node.js, React.js, other JS variants. 
 •   Overview embedded software product development lifecycle of Open Source Systems for Android, Linux, Arm, Kernel, GNU.
 •   Reviewed in-house developer code for open source compliance, supporting engineering teams in managing open source compliance. 
+•   Manage consumption, usage, and distribution of open-source software for Qualcomm.
+•   Work closely with legal on licensing and compliance issues.
+•   Manage High-risk open source projects. 
+•   Vetting Android, Embedded, Web Tech, and Chromium software to ensure it adheres to the legal guidelines and for possible open-source license violations.
+•   Training and guiding teams on how they can be more active contributors to the open-source projects.
+•   Develop automation tools and processes that help engineers and service teams to meet the licensing requirements in their open-source code.
+•   Build automation tools to enable and speed up software review processes.
+•   Work closely with build and integration teams.
+•   Scanning and analyzing code and linkage between modules.
+•   Work closely with developers to develop architecture review.
 •   Systems used: Jira, Gerrit, Git/GitHub, Docker, Django, Microsoft suite of tools.
 
 ABCO Technology Institute                                                                  August 2019 - Sept 2020
