@@ -1,117 +1,135 @@
 David Edwards
 Software Engineer
-Hawthorne, CA
-davidedwardslaca@gmail.com
-davedwards.github.io
+14123 Yukon Ave, Hawthorne, CA 90250
 512-998-1729
+davidedwardslaca@gmail.com
+https://www.linkedin.com/in/davedwards
+davedwards.github.io
 
-JOB RELATED SUMMARY
+JOB RELATED SUMMARY:
 •	Accomplished Software Engineer who holds Bachelor’s Degree in Computer Science from California State University.
 •	Core languages experience: C/C++ 6 years, Python 10 years. Java 6 years.
-•	10+ years’ experience with Git and Subversion repository code version control system and working in Agile / Scrum team project development.
-•	Project experiences include creating dynamic web/mobile applications using: HTML5, CSS3, SQL/NoSQL, Java, Python, React.js, Node.js, MongoDB/Django integrated codebases running on UNIX/Linux and Windows platforms. Python backend, API and GUI tool developer. 18+ years Linux OS experience.
+•	10+ years experience with Git and Subversion repository code version control system.
+•	Agile Development Methodologies / Scrum team project development.
+•	Project experiences include creating dynamic web/mobile applications using: HTML5, CSS3, SQL/NoSQL, Java, Python, React.js, Node.js, MongoDB REST Web API framework integrating codebases running on UNIX/Linux and Windows platforms. 
+•	Python backend, API and GUI tool developer. 18+ years Linux OS experience.
+•	4 years experience in embedded systems programming microcontrollers.
 •	Familiar with Matlab in academics to develop Simulink models and observe the output, M-Files, simple GUIs.
-•	US Navy Veteran 6 years Aviation Electronics Technician Supervisor
+•	US Navy Veteran 6 years as Aviation Electronics Technician Supervisor.
 
+EDUCATION 
+Bachelor of Science in Computer Science, California State University, Los Angeles, CA 2014
+Logical Operations Master Mobile Application Developer (MMAD), ABCO Technology Institute - Nov 2020
+Associates of Computer Science, San Diego City College, CA 2009
 
-EDUCATION
-•   Bachelor of Science in Computer Science, California State University, Los Angeles, CA 2014
-•   Associates of Computer Science- San Diego City College, CA 2009
+PROFESSIONAL EXPERIENCE:
+GlobalLogic, Remote									           Sep 2024 – Jan 2025
+C++ Qt Engineer
+•	Consulted post-doctoral Electrical Engineer team member at client, PPG Aviation, to add features to Qt GUI to debug logging and enable WiFi data transfer.
+•	Implement C++ Qt code to enable WIFI status: searching/connected. Implemented Qt code to emit and transfer logging data from MCU USB microcontroller via WiFi signal using Qt interface on WinLogic platform.
+•	Debug logging of hex data being read from MCU device to be transferred to WinLogic servers.
+•	Update Qt5.15 C++ 14 codebase to Qt6 using features from C++ 17 (e.g. inline variables, structured bindings, constexpr if-checks, views, algorithms, and adaptors).
+•	Enable read, test to verify correct NVM settings of Non-volatile memory.
+•	Submitted project with Git history of updates with a comprehensive report advising client on future development strategies for proprietary features to securely store, encrypt, and transfer data using SSH, SFTP authentication protocols.
 
-PROFESSIONAL EXPERIENCE
-Qualcomm, San Diego, CA                                                                    July 2020-June 2023
-Embedded Software Engineer
-Embedded Software Content Compliance and Linux Open Source team:
-•   Supported C/C++ implementation and code review for embedded device driver/firmware updates of modem, GPS, WiFi, Camera, Bluetooth releases for Android and Apple OS running Qualcomm SnapDragon SoCs.
-•   Develop, maintain, and operate software scanning automated tools using C, C++, Qt, Python, Docker, and Bash scripts.
-•   Developed and maintained open source compliance review automation systems.
-•   Built from scratch a front end React.js, Django REST API framework Web API, PostgreSQL DB for to curate and manage SBOM (Software Bill of Materials) report generation by Open Source team.
-•   Built tools in automation to support testing and verification of large codebases that streamline development processes utilizing C/C++, Python, Docker, Django, Linux/Scripts (Python, Bash, JS), JavaScript, Node.js, React.js, other JS variants. 
-•   Overview embedded software product development lifecycle of Open Source Systems for Android, Linux, Arm, Kernel, GNU.
-•   Reviewed in-house developer code for open source compliance, supporting engineering teams in managing open source compliance. 
-•   Manage consumption, usage, and distribution of open-source software for Qualcomm.
-•   Work closely with legal on licensing and compliance issues.
-•   Manage High-risk open source projects. 
-•   Vetting Android, Embedded, Web Tech, and Chromium software to ensure it adheres to the legal guidelines and for possible open-source license violations.
-•   Training and guiding teams on how they can be more active contributors to the open-source projects.
-•   Develop automation tools and processes that help engineers and service teams to meet the licensing requirements in their open-source code.
-•   Build automation tools to enable and speed up software review processes.
-•   Work closely with build and integration teams.
-•   Scanning and analyzing code and linkage between modules.
-•   Work closely with developers to develop architecture review.
-•   Systems used: Jira, Gerrit, Git/GitHub, Docker, Django, Microsoft suite of tools.
-
-ABCO Technology Institute                                                                  August 2019 - Sept 2020
-Inglewood, CA
-Mobile Application Developer
-•	Created dynamic, database-driven mobile applications and websites for business-to-business / business-to-consumer userbases using latest technologies including Java and Kotlin with Android Studio to deploy applications on Xamarin, React.js, React Native, Flutter frameworks, while using Dart programming language for the UI components.
-•	Worked closely with Web marking and business specialist departments to gather business and technical requirements, and architect working solutions working within financial and resource constraints.
-•	Projects applied variety of specialties including e-commerce design and search engine optimization (SEO).
-
-Saatchi & Saatchi, Torrance, CA                                                            October 2015 - July 2019
-Python Developer
-•	Developed in-house tools and scripts using Python, PyQt, PySide and JavaScript in Maya, Nuke, Shotgun and Photoshop.
-•	Built a React.js website for internal project management to coordinate multiple projects between our team of designers and codebase maintainers.
-•	Maintained Python codebase connecting to Deadline hooks and exits for Autodesk Maya, The Foundry Nuke, Shotgun Software, and Thinkbox Deadline.
-•	Evaluate and test new applications, software, and workflows to improve production.
-•	Developed an automated ingestion system of build data sheets for annual garage CAD data from Japan in Unreal Engine in which I created augmented virtual reality XR/VR animation projects in C++, showcased on Youtube at Dr. Kaku’s Microcosmic Journey Through Mirai | 360 Video.
-
-DIRECTV, Marina Del Ray, CA                                                                April 2015 – June 2015
+Qualcomm, San Diego, CA								             Jun 2020 - Jun 2023
 Software Engineer
-•   Modified and created scripts responsible for talking to pieces of communications and satellite equipment using Java and Groovy programming languages.
-•   Built front-end UI to monitor and maintain cable TV network traffic using a combination of third-party products and Groovy.
+Open Source Content Compliance:
+•	Reviewed in-house developer code for embedded device updates of modem, GPS, Wi-Fi, Camera, Bluetooth releases for Android and Apple OS running Qualcomm Snapdragon SoCs.
+•	Develop, maintain, and operate software scanning automated tools using Python, C, C++, Docker containers, and Bash scripts.
+•	Developed and maintained open-source compliance review automation systems.
+•	Built from scratch a frontend React.js, MongoDB REST API framework with custom routing to application framework to automate curating and managing Software Bill of Materials (SBOM) report generation lowering manhours from manually entering data dedicated to this process from 80% to 20% by automating generating SBOM spreadsheet reports for end-clients.
+•	Built tools in automation to support testing and verification of large codebases that streamline development processes utilizing C/C++, Python, YAML, Docker, MongoDB, Linux/Scripts (Python, Bash, JS), JavaScript, Node.js, React.js, other JS variants. 
+•	Overview embedded software product development lifecycle of Open Source Systems for Android, Linux, Arm, Kernel, GNU.
+•	Reviewed in-house developer code for open-source compliance, supporting engineering teams in managing open-source compliance. 
+•	Manage consumption, usage, and distribution of open-source software for Qualcomm.
+•	Work closely with legal on licensing and compliance issues.
+•	Manage High-risk open-source projects. 
+•	Vetting Android, Embedded, Web Tech, and Chromium software to ensure it adheres to the legal guidelines and for possible open-source license violations.
+•	Training and guiding teams on how they can be more active contributors to the open-source projects.
+•	Develop automation tools and processes that help engineers and service teams to meet the licensing requirements in their open-source code.
+•	Build automation tools to enable and speed up software review processes.
+•	Work closely with build and integration teams.
+•	Scanning and analysing code and linkage between modules.
+•	Work closely with developers to develop architecture review.
+•	Enterprise Git version control, Jira/Confluence project management for issue/ticket tracking and feature requests.
+•	Weekly Agile Scrum meetings storyboarding for roadblocks, tracking backlog issues with stakeholders.
+•	Jira, Gerrit, Git/GitHub, Docker, MongoDB, Microsoft suite of tools.
 
-theAudience.com, Los Angeles, CA                                                           October 2014 – January 2015
-Data Analyst/Developer
-•	Built a React.js REST API application to query and present data from MongoDB for internal report generation referred to by our sales data analyst teams.
-•	Created data collection scripts in Python to collect, store, post and maintain social media accounts for Fortune 500 companies providing data analysis and insights of information determined from organic engagement of users on various social media APIs (e.g. Vine, Twitter, Facebook).
-•	Maintained and extended internal APIs servicing collected data to other applications.
-•	Maintained and extended internal report generation tools.
+Saatchi & Saatchi, Torrance, CA							            Sep 2015 - Aug 2019
+Python 3D Developer
+•	Developed in-house tools and scripts supporting graphic artist team developing HD image rendering animations from CAD data of Toyota model vehicles for display in media advertisements using Python, YAML, PyQt, PySide and JavaScript in Maya, Nuke, Shotgun and Photoshop.
+•	Built Docker websites for internal project management to coordinate multiple projects between our team of designers and codebase maintainers. Prototyped in Flask to rapidly implement custom application routing features.
+•	Maintained Python codebase connecting Postman, RabbitMQ, and Deadline hooks/exits for Autodesk Maya, The Foundry Nuke, Shotgun Software, and Thinkbox Deadline.
+•	Enterprise GitHub version control, YouTrack project management issue/ticket tracking and feature requests. Weekly Agile Scrum meetings storyboarding for roadblocks, tracking backlog issues with stakeholders.
+•	Evaluate and test new applications, software, and workflows to improve production.
+•	Developed an automated ingestion system of build data sheets for annual garage CAD data from Japan in Unreal Engine creating augmented virtual reality XR/VR animation projects in C++, showcased on YouTube at Dr. Kaku’s Microcosmic Journey Through Mirai | 360 Video.
+
+DIRECTV, El Segundo, CA								           Apr 2015 - Aug 2015
+Software Engineer
+•	Wrote scripts responsible for talking to pieces of communications and satellite equipment using Java and Groovy in UNIX and Windows operating environments heavy command-line work in Red Hat Linux.
+•	Built front-end UI to monitor and maintain cable TV network traffic in JavaScript, Ruby, Groovy, Scala, Python, Perl.
+•	Worked with SOAP and REST web services using a combination of third-party products and Groovy.
+•	Designed and debug scripts and applications in Groovy and Java distributed network/computing environments and standard communication protocols REST, JMS, JMX, Web Services, SOAP, HTTP, SNMP.
+•	Ensured that software development efforts comply with coding standards and software version control.
+•	Participated in all cycles of the testing phase to validate code, including unit testing, subsystem testing and end-to-end testing.
+•	Provided engineering support for test execution and initial production deployment including interfacing with other engineering teams.
+•	Identified technical issues in production and recommended appropriate approaches and solutions.
+•	Communicated with system users in production to resolve system vulnerabilities and weaknesses.
+•	Provided information efficiently to all management levels on ongoing issues, project activities and progress.
+•	Collaborated with offshore teams to support project development work.
+•	Jira project management, Subversion (SVN) version control.
+
+theAudience.com, Los Angeles, CA							           Nov 2014 - Apr 2015
+Python Developer/Data Analyst
+•	Built Docker REST API applications to query and present data from MongoDB for internal report generation referred to by sales/data analyst teams.
+•	Developed from scratch applications in Flask to quickly prototype APIs to be deployed in Docker containers on AWS instances.
+•	Created data collection python API running on Amazon Cloud Web Service/AWS EC2 Tier 2 to collect, store, post and maintain social media accounts for Fortune 500 companies providing data analysis and insights of information determined from organic engagement of users on all social media APIs.
+•	Designing custom applications routing in Flask with YAML, deployed on Docker containers with YAML docker-compose. Configurations and data exchange formats using JSON or YAML.
+•	Development environment enterprise Git for version control, Agile Scrum development for sharing storyboarding, updates, roadblocks with stakeholders.
+•	Maintained and extended internal APIs servicing collected data over AWS EC2 cloud instances to internal applications for report generation tools.
 •	Worked with other development, analytics and sales teams to create client facing reports.
+•	Enterprise GitHub version control, project management for issue/ticket tracking and feature requests. Weekly Agile Scrum meetings storyboarding for roadblocks, tracking backlog issues with stakeholders.
 
-US Navy · Contract, Greater San Diego Area                                                 September 2000 - August 2006
+US Navy · Contract, Greater San Diego Area						           Sep 2000 - Aug 2006
 Aviation Electronic Technician Supervisor
 •	2nd Class Petty Officer at Coronado Naval Base.
-•	Westpac Deployment aboard USS Tarawa LHA-1 from 32nd St. Naval Base.
+•	Westpac Deployment aboard USS Tarawa LHA-1, 32nd St. Naval Base.
 
-UPS Supply Chain Solutions, Tempe, AZ				                                       February 1997 – September 2000
+UPS Supply Chain Solutions, Tempe, AZ						          Feb 1997 - Sept 2000
 Hardware Support Technician
 •	Validation & Verification Testing of Requirements, System and Regression Level Testing, Test Report Preparation, and Software Test Estimation.
 •	Develop and implement tools to support analysis of UPS desktop shipping tools, support and implement Test Automation features for software test team.
 •	Troubleshoot escalated technical issues with end-customer on desktop remote support systems.
 
-
 INTERNSHIPS AND PROJECTS
-General Motors - GM,                               January 2014 – June 2014
+General Motors, Los Angeles, CA							            Jan 2014 - Jun 2014
 QT/QML/C++ GUI Developer
 •	Developed board support package (BSP) on GUI interface display systems for an embedded system which runs C++ on a Freescale i.MX 6 Sabre ARM board.
-•	Performed bring-up for embedded FW on linux kernel to interface C++ CAN signals communication over vehicle's CAN bus system.
+•	Performed bring-up for embedded FW on Linux kernel to interface C++ CAN signals communication over vehicle's CAN bus system.
 •	Used a custom Linux kernel to program the Freescale board with C++ to transmit and receive.
 •	Developed user interface in Qt QML library to create software-based controls that replace radio and climate control mechanical buttons while continually displaying live diagnostic data signals.
 •	Read and write CAN signals from the car, translating them using a Linux driver, and implemented in QML, C++ to display interactive touch screen controls on the vehicle display console.
-•	Tested onboard program inside vehicle with live controller area network signals. Debugged onboard program through serial cable.
+•	Tested onboard program inside vehicle with live controller area network signals.
+•	Debugged onboard program through serial cable.
 •	Project Website: http://csns.calstatela.edu/department/cs/project/view?id=4556961
 
-Boeing Company, El Segundo CA                                                              August 2013 – January 2014
+Boeing Company, El Segundo CA							          Aug 2013 - Dec 2014
 Test Framework Developer
-•   Built a test framework to automate testing for Boeing 702SP operations satellites by developing a system in Java and Python that automates the conversion of TCL/Tk-encoded test cases into Sikuli-readable JSON using the Java ANTLR parser.
-•   Identified and extracted test cases from TCL/Tk and Perl scripts using ANTLR into an interactive user interface in Java’s JGraphx API for test engineers to select test cases, then using Sikuli, a GUI automation tool that was used to replace the test engineer, automate the process on the satellite simulator and produce a log report for later review.
-•   The final result was successful in optimizing testing, while saving Boeing Company time and money.
-•   Project Website: http://csns.calstatela.edu/department/cs/project/view?id=4556960
-
-PCWerk.com, Playa Vista, CA                                                                January 2013 – June 2013
-Project Developer
-•   Wrote a program that performed data scraping from Yelp’s website using Python and Selenium Web driver, and Yelp API.
-•   Deployed this program on a Hadoop single-node cluster setup on Ubuntu Linux.
-•   Performed Data Mining and Data Warehousing with MapReduce operations on single-node HDFS on Ubuntu Linux.
-•   Used Yelp API access for data collection.
-•   Performed data classification and data massaging from JSON to CSV text.
-•   Calculated Data analysis on yelp datasets from Yelp API using python while utilizing python extension library pylab.
-•   Created and presented data visualization using python matplotlib and google maps API Hosted at: https://github.com/pcwerk
+•	Built a test framework to automate testing for Boeing 702SP operations satellites by developing a system in Java and Python that automates the conversion of TCL/Tk-encoded test cases into Sikuli-readable JSON using the Java ANTLR parser.
+•	Test framework gathered INS data from GPS/GNSS satellite system to analyse and automate satellite simulation.
+•	RTK and PPP-RTK data was analysed and accuracy compared to TCL/Tk test cases to confirm and/or determine
+•	necessary INS improvements required for optimal system accuracy and performance.
+•	Identified and extracted test cases from TCL/Tk and Perl scripts using ANTLR into an interactive user interface in Java’s JGraphx API for test engineers to select test cases, then using Sikuli, a GUI automation tool that was used to replace the test engineer, automate the process on the satellite simulator and produce a log report for later review.
+•	The final result was successful in optimizing testing, while saving Boeing Company time and money.
+•	Project Website: http://csns.calstatela.edu/department/cs/project/view?id=4556960
 
 LICENSES / CERTIFICATIONS 
-Mobile Application Development certification - (Android/iOS hybrid) Logical Operations Master Mobile Application Developer (MMAD), ABCO Technology Institute. Nov. 2020.
-Accredited Project Manager (APRM™) certified. 2019.
-OSHA 30 licensed Oct. 2019.
-FCC (Federal Communications License) with GROL endorsement. 2003.
-Advanced Fiber Optic Installation Technician License. 2003.
+•	Logical Operations Master Mobile Application Developer (MMAD), ABCO Technology Institute - Nov 2020
+•	Mobile Application Development certification - (Android/iOS hybrid)
+•	AWS Educate Introduction to Generative AI - Amazon Web Services (AWS) Issued Jun 2024
+•	Embedded Systems and C – TestDome - Issued Apr 2024
+•	Accredited Project Manager (APRM™) certified – 2019
+•	OSHA 30 licensed - Oct 2019
+•	FCC (Federal Communications License) with GROL endorsement – 2003
+•	Advanced Fiber Optic Installation Technician License - 2003
