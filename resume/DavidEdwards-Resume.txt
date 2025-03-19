@@ -118,8 +118,7 @@ Boeing Company, El Segundo CA							          Aug 2013 - Dec 2014
 Test Framework Developer
 •	Built a test framework to automate testing for Boeing 702SP operations satellites by developing a system in Java and Python that automates the conversion of TCL/Tk-encoded test cases into Sikuli-readable JSON using the Java ANTLR parser.
 •	Test framework gathered INS data from GPS/GNSS satellite system to analyse and automate satellite simulation.
-•	RTK and PPP-RTK data was analysed and accuracy compared to TCL/Tk test cases to confirm and/or determine
-•	necessary INS improvements required for optimal system accuracy and performance.
+•	RTK and PPP-RTK data was analysed and accuracy compared to TCL/Tk test cases to confirm and/or determine necessary INS improvements required for optimal system accuracy and performance.
 •	Identified and extracted test cases from TCL/Tk and Perl scripts using ANTLR into an interactive user interface in Java’s JGraphx API for test engineers to select test cases, then using Sikuli, a GUI automation tool that was used to replace the test engineer, automate the process on the satellite simulator and produce a log report for later review.
 •	The final result was successful in optimizing testing, while saving Boeing Company time and money.
 •	Project Website: http://csns.calstatela.edu/department/cs/project/view?id=4556960
