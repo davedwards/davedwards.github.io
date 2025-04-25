@@ -23,7 +23,7 @@ Logical Operations Master Mobile Application Developer (MMAD), ABCO Technology I
 Associates of Computer Science, San Diego City College, CA 2009
 
 PROFESSIONAL EXPERIENCE:
-GlobalLogic, Remote									           Sep 2024 – Jan 2025
+GlobalLogic/PPG Avionics, Remote									           Sep 2024 – Jan 2025
 C++ Qt Engineer
 •	Consulted post-doctoral Electrical Engineer team member at client, PPG Aviation, to add features to Qt GUI to debug logging and enable WiFi data transfer.
 •	Implement C++ Qt code to enable WIFI status: searching/connected. Implemented Qt code to emit and transfer logging data from MCU USB microcontroller via WiFi signal using Qt interface on WinLogic platform.
@@ -35,6 +35,7 @@ C++ Qt Engineer
 Qualcomm, San Diego, CA								             Jun 2020 - Jun 2023
 Software Engineer
 Open Source Content Compliance:
+• Enterprise Git version control, Jira/Confluence project management for issue/ticket tracking and feature requests. Weekly Agile Scrum meetings storyboarding for roadblocks, tracking backlog issues with stakeholders.
 •	Reviewed in-house developer code for embedded device updates of modem, GPS, Wi-Fi, Camera, Bluetooth releases for Android and Apple OS running Qualcomm Snapdragon SoCs.
 •	Develop, maintain, and operate software scanning automated tools using Python, C, C++, Docker containers, and Bash scripts.
 •	Developed and maintained open-source compliance review automation systems.
