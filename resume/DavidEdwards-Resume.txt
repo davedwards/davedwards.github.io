@@ -23,7 +23,21 @@ Logical Operations Master Mobile Application Developer (MMAD), ABCO Technology I
 Associates of Computer Science, San Diego City College, CA 2009
 
 PROFESSIONAL EXPERIENCE:
-GlobalLogic/PPG Avionics, Remote									           Sep 2024 – Jan 2025
+Rogerson Aircraft Corporation, Irvine, CA                                                 Oct 2025 – Current
+Software Engineer
+•	Software documentation, design, development, testing, and coding for current, modification, and new development programs.
+•	Utilize current S/W tools and mentor peers on usage.
+•	Generation of Software requirements, Test procedures, Code, Test, and verification.
+•	Generation of Software documentation and reviews.
+•	Ensure all regulatory agency and contractual guidelines related to software development are
+•	followed.
+•	Project status reporting as required.
+•	Program Responsibilities.
+•	Design, Development, Integration.
+•	Installation Interface.
+•	DO-178 Compliance Updates.
+
+GlobalLogic/PPG Avionics, Remote							  Sep 2024 – Jan 2025
 C++ Qt Engineer
 •	Consulted post-doctoral Electrical Engineer team member at client, PPG Aviation, to add features to Qt GUI to debug logging and enable WiFi data transfer.
 •	Implement C++ Qt code to enable WIFI status: searching/connected. Implemented Qt code to emit and transfer logging data from MCU USB microcontroller via WiFi signal using Qt interface on WinLogic platform.
@@ -32,7 +46,7 @@ C++ Qt Engineer
 •	Enable read, test to verify correct NVM settings of Non-volatile memory.
 •	Submitted project with Git history of updates with a comprehensive report advising client on future development strategies for proprietary features to securely store, encrypt, and transfer data using SSH, SFTP authentication protocols.
 
-Qualcomm, San Diego, CA								             Jun 2020 - Jun 2023
+Qualcomm, San Diego, CA								          Jun 2020 - Jun 2023
 Software Engineer
 Open Source Content Compliance:
 • Enterprise Git version control, Jira/Confluence project management for issue/ticket tracking and feature requests. Weekly Agile Scrum meetings storyboarding for roadblocks, tracking backlog issues with stakeholders.
@@ -57,7 +71,7 @@ Open Source Content Compliance:
 •	Weekly Agile Scrum meetings storyboarding for roadblocks, tracking backlog issues with stakeholders.
 •	Jira, Gerrit, Git/GitHub, Docker, MongoDB, Microsoft suite of tools.
 
-Saatchi & Saatchi, Torrance, CA							            Sep 2015 - Aug 2019
+Saatchi & Saatchi, Torrance, CA							          Sep 2015 - Aug 2019
 Python 3D Developer
 •	Developed in-house tools and scripts supporting graphic artist team developing HD image rendering animations from CAD data of Toyota model vehicles for display in media advertisements using Python, YAML, PyQt, PySide and JavaScript in Maya, Nuke, Shotgun and Photoshop.
 •	Built Docker websites for internal project management to coordinate multiple projects between our team of designers and codebase maintainers. Prototyped in Flask to rapidly implement custom application routing features.
@@ -66,7 +80,7 @@ Python 3D Developer
 •	Evaluate and test new applications, software, and workflows to improve production.
 •	Developed an automated ingestion system of build data sheets for annual garage CAD data from Japan in Unreal Engine creating augmented virtual reality XR/VR animation projects in C++, showcased on YouTube at Dr. Kaku’s Microcosmic Journey Through Mirai | 360 Video.
 
-DIRECTV, El Segundo, CA								           Apr 2015 - Aug 2015
+DIRECTV, El Segundo, CA								          Apr 2015 - Aug 2015
 Software Engineer
 •	Wrote scripts responsible for talking to pieces of communications and satellite equipment using Java and Groovy in UNIX and Windows operating environments heavy command-line work in Red Hat Linux.
 •	Built front-end UI to monitor and maintain cable TV network traffic in JavaScript, Ruby, Groovy, Scala, Python, Perl.
@@ -81,7 +95,7 @@ Software Engineer
 •	Collaborated with offshore teams to support project development work.
 •	Jira project management, Subversion (SVN) version control.
 
-theAudience.com, Los Angeles, CA							           Nov 2014 - Apr 2015
+theAudience.com, Los Angeles, CA							  Nov 2014 - Apr 2015
 Python Developer/Data Analyst
 •	Built Docker REST API applications to query and present data from MongoDB for internal report generation referred to by sales/data analyst teams.
 •	Developed from scratch applications in Flask to quickly prototype APIs to be deployed in Docker containers on AWS instances.
@@ -92,7 +106,7 @@ Python Developer/Data Analyst
 •	Worked with other development, analytics and sales teams to create client facing reports.
 •	Enterprise GitHub version control, project management for issue/ticket tracking and feature requests. Weekly Agile Scrum meetings storyboarding for roadblocks, tracking backlog issues with stakeholders.
 
-US Navy · Contract, Greater San Diego Area						           Sep 2000 - Aug 2006
+US Navy · Contract, Greater San Diego Area						  Sep 2000 - Aug 2006
 Aviation Electronic Technician Supervisor
 •	2nd Class Petty Officer at Coronado Naval Base.
 •	Westpac Deployment aboard USS Tarawa LHA-1, 32nd St. Naval Base.
@@ -104,7 +118,7 @@ Hardware Support Technician
 •	Troubleshoot escalated technical issues with end-customer on desktop remote support systems.
 
 INTERNSHIPS AND PROJECTS
-General Motors, Los Angeles, CA							            Jan 2014 - Jun 2014
+General Motors, Los Angeles, CA							          Jan 2014 - Jun 2014
 QT/QML/C++ GUI Developer
 •	Developed board support package (BSP) on GUI interface display systems for an embedded system which runs C++ on a Freescale i.MX 6 Sabre ARM board.
 •	Performed bring-up for embedded FW on Linux kernel to interface C++ CAN signals communication over vehicle's CAN bus system.
