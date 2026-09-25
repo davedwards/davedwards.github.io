@@ -1,6 +1,6 @@
 David Edwards
 Software Engineer
-14123 Yukon Ave, Hawthorne, CA 90250
+Hawthorne, CA 90250
 512-998-1729
 davidedwardslaca@gmail.com
 https://www.linkedin.com/in/davedwards
@@ -23,19 +23,28 @@ Logical Operations Master Mobile Application Developer (MMAD), ABCO Technology I
 Associates of Computer Science, San Diego City College, CA 2009
 
 PROFESSIONAL EXPERIENCE:
-Rogerson Aircraft Corporation, Irvine, CA                                                 Oct 2025 – Current
+Rogerson Aircraft Corporation, Irvine, CA                                                 Oct 2025 – Aug 2026
 Software Engineer
 •	Software documentation, design, development, testing, and coding for current, modification, and new development programs.
 •	Utilize current S/W tools and mentor peers on usage.
 •	Generation of Software requirements, Test procedures, Code, Test, and verification.
-•	Generation of Software documentation and reviews.
-•	Ensure all regulatory agency and contractual guidelines related to software development are
-•	followed.
-•	Project status reporting as required.
-•	Program Responsibilities.
+•	Unreal Engine 6, C++ created 3-D Maps and Charts application for pilot to interact and view flight visual data.
+•	C++, Qt created a Maps server using Map Tiler data that integrated into the UE Map application.
+•	Upgraded legacy C / OpenGL codebases of Bell 412/429, Sikorsky UH-60 Black Hawk aircraft Primary Flight Display (PFD) to Scalar Graphics on 4K LED for display in aircraft cockpit.
+•	Managed A429-BAST and Condor ARINC 429 Bus Analyzer and Simulation for development, testing, and maintenance of ARINC 429 avionics systems. 
+•	Generation of Software documentation and reviews for DO-178, DO-254, DO-330 FAA compliance.
+•	Ensure all regulatory agency and contractual guidelines related to software development are followed.
+•	Project status reporting, Program Responsibilities.
 •	Design, Development, Integration.
 •	Installation Interface.
-•	DO-178 Compliance Updates.
+•	DO-178 FAA Compliance Updates.
+
+YouGlow Wellness & Spa, Torrance, CA						            Nov 2024 – Current 
+Manager IT Systems
+•	Manage technology infrastructure and corporate website. 
+•	Planning, directing, and coordinating the computer-related activities of an organization, overseeing the installation, maintenance, and operation of computer hardware, software, and security systems to meet business objectives. 
+•	Key responsibilities include assessing IT needs, managing IT staff, ensuring system security and performance, developing IT policies, budgeting for technology, and supporting users. 
+•	Monitor vendors, implement disaster recovery plans, and stay updated on technological advancements. 
 
 GlobalLogic/PPG Avionics, Remote							  Sep 2024 – Jan 2025
 C++ Qt Engineer
