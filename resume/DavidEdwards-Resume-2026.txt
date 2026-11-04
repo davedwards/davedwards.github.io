@@ -1,0 +1,79 @@
+David Edwards
+Software Engineer
+Hawthorne, CA 90250  |  512-998-1729  |  davidedwardslaca@gmail.com  |  linkedin.com/in/davedwards
+PROFESSIONAL SUMMARY
+Software Engineer with a B.S. in Computer Science and 15+ years of experience in software development, test automation, and technical operations. Strong back-end and systems skills in C/C++, Python, and Java, with experience building web, API, GUI, and embedded applications on Linux and Windows. Track record of automating manual processes (cut SBOM reporting effort from 80% to 20% of staff hours at Qualcomm), modernizing legacy code, and delivering software under FAA (DO-178/DO-254/DO-330), MIL-STD, and AS9100 standards. U.S. Navy veteran and former Aviation Electronics Technician Supervisor seeking an on-site or hybrid role in the Los Angeles area.
+TECHNICAL SKILLS
+•	Languages:  C/C++ (6 yrs), Python (10 yrs), Java (6 yrs), JavaScript, Node.js, React.js, Groovy, Bash, HTML5, CSS3, Qt/QML
+•	Web, Data & Cloud:  REST/SOAP web services, Flask, custom API routing, SQL/NoSQL, MongoDB, JSON/YAML, Docker, AWS EC2
+•	Embedded & Systems:  Embedded and microcontroller programming (4 yrs), Linux kernel/BSP bring-up, CAN bus, ARINC 429, Linux/UNIX (18+ yrs), Windows, Android/iOS, CMake multiplatform builds
+•	Graphics & Modeling:  Unreal Engine (C++), OpenGL, MATLAB/Simulink, Maya, Nuke
+•	Process & Tools:  Agile/Scrum, Git/GitHub, Subversion (10+ yrs), Jira, Confluence, YouTrack, requirements and test procedures, verification and qualification testing, technical documentation
+PROFESSIONAL EXPERIENCE
+Rogerson Aircraft Corporation, Irvine, CA	Oct 2025 – Aug 2026
+Software Engineer
+•	Designed, developed, tested, and documented C/C++ software for new development and modification programs, including software requirements, test procedures, and verification.
+•	Built a 3D Maps and Charts application in Unreal Engine (C++) for pilots to interact with flight data, plus a C++/Qt map server using MapTiler data integrated into the application.
+•	Upgraded legacy C/OpenGL codebases for the Bell 412/429 and Sikorsky UH-60 Black Hawk Primary Flight Display to Scalar Graphics on 4K LED cockpit displays.
+•	Managed A429-BAST and Condor ARINC 429 bus analyzer and simulation systems for development, testing, and maintenance of avionics systems.
+•	Produced documentation and reviews for DO-178, DO-254, and DO-330 FAA compliance; ensured regulatory and contractual guidelines were followed.
+•	Provided project status reporting, handled design, development, integration, and installation interface work, and mentored peers on software tools.
+YouGlow Wellness & Spa, Torrance, CA	Nov 2024 – Current
+Manager, IT Systems
+•	Plan and coordinate computer-related activities: assess IT needs, oversee installation, maintenance, and operation of hardware, software, and security systems, and manage IT staff and vendors.
+•	Manage the corporate website and technology infrastructure; develop IT policies, implement disaster recovery plans, budget for technology, and support users.
+GlobalLogic / PPG Avionics, Remote	Sep 2024 – Jan 2025
+C++ Qt Engineer (Contract)
+•	Developed and debugged C++/Qt GUI applications enabling Wi-Fi status detection, data transfer, and logging from MCU USB microcontrollers on the WinLogic platform.
+•	Delivered code migration from Qt 5.15/C++14 to Qt 6/C++17, ensuring stability and compatibility.
+•	Designed test tools to read and verify NVM settings and transfer hex data from MCU devices; applied MIL-STD guidelines in qualification and verification testing for avionics software.
+•	Used Git for version control and produced technical reports with recommendations for future development.
+Qualcomm, San Diego, CA	Jun 2020 – Jun 2023
+Software Engineer – Open-Source Compliance
+•	Built from scratch a React.js and MongoDB REST API framework with custom routing that automated Software Bill of Materials (SBOM) report generation for end clients, cutting manual data-entry effort from 80% to 20% of staff hours.
+•	Developed and operated automated software scanning and compliance review tools using Python, C, C++, Docker, YAML, Node.js, and Bash, and built automation supporting testing and verification of large codebases.
+•	Reviewed in-house code for embedded device releases (modem, GPS, Wi-Fi, camera, Bluetooth) on Android and Apple OS running Snapdragon SoCs; analyzed code and module linkage and supported architecture reviews.
+•	Partnered with legal, build, integration, and engineering teams; managed high-risk open-source projects and coached teams on compliance and contribution practices.
+•	Worked in Agile Scrum with Jira/Confluence ticket tracking and weekly stakeholder meetings.
+Saatchi & Saatchi, Torrance, CA	Sep 2015 – Aug 2019
+Python 3D Developer
+•	Developed in-house tools in Python, PyQt, PySide, YAML, and JavaScript for artists rendering HD animations from Toyota CAD data in Maya, Nuke, Shotgun, and Photoshop.
+•	Built Docker-based internal project management websites, prototyping in Flask with custom routing; maintained Python builds with Rez integrated with RabbitMQ, Postman, and Deadline.
+•	Built an automated ingestion system for annual CAD data in Unreal Engine (C++) powering XR/VR animation projects, and evaluated and tested new applications and workflows to improve production.
+•	Used enterprise GitHub and YouTrack in weekly Agile Scrum meetings to track backlog and roadblocks with stakeholders.
+DIRECTV, El Segundo, CA	Apr 2015 – Aug 2015
+Software Engineer (Contract)
+•	Wrote Java and Groovy scripts for communication between satellite equipment on Red Hat Linux and Windows; built a front-end UI to monitor and maintain cable TV network traffic.
+•	Designed and debugged distributed applications using REST, SOAP, JMS, JMX, HTTP, SNMP, and web services.
+•	Participated in all testing phases (unit, subsystem, end-to-end), supported production deployment, identified production issues, and reported progress to all management levels; collaborated with offshore teams.
+theAudience.com, Los Angeles, CA	Nov 2014 – Apr 2015
+Python Developer / Data Analyst (Contract)
+•	Built Docker REST API applications in Flask to query MongoDB for internal sales and analyst reports, deployed on AWS EC2.
+•	Created a data collection API that stored and maintained social media account data for Fortune 500 companies to support data analysis; worked with development, analytics, and sales teams on client-facing reports.
+U.S. Navy, San Diego / Coronado, CA	Sep 2000 – Aug 2006
+Aviation Electronics Technician Supervisor (2nd Class Petty Officer)
+•	Supervised technicians maintaining and testing aviation electronics equipment at Naval Base Coronado; deployed on Westpac aboard USS Tarawa (LHA-1).
+UPS Supply Chain Solutions, Tempe, AZ	Feb 1997 – Sep 2000
+Hardware Support Technician
+•	Performed requirements validation and verification, system and regression testing, test report preparation, and software test estimation.
+•	Developed tools to analyze UPS desktop shipping applications and implemented test automation features for the software test team; resolved escalated issues through remote desktop support.
+INTERNSHIPS AND PROJECTS
+Boeing Company, El Segundo, CA	Aug 2013 – Dec 2014
+Test Framework Developer
+•	Built a test automation framework for Boeing 702SP satellites in Java and Python, using an ANTLR parser to convert TCL/Tk test cases into Sikuli-readable JSON with a JGraphX interface for test selection; automated simulator runs and log reports, saving time and cost.
+•	Analyzed GPS/GNSS INS data (RTK and PPP-RTK) to verify accuracy; applied MIL-STD, DO-178C, DO-254, and AS9100 standards in verification, validation, and qualification testing.
+General Motors, Los Angeles, CA	Jan 2014 – Jun 2014
+Qt/QML/C++ GUI Developer
+•	Developed a board support package and Qt QML touch-screen interface in C++ on a Freescale i.MX 6 ARM board with a custom Linux kernel, reading and writing vehicle CAN bus signals to replace radio and climate controls with live diagnostic display; tested and debugged in-vehicle.
+EDUCATION
+Bachelor of Science in Computer Science, California State University, Los Angeles, CA – 2014
+Master Mobile Application Developer (MMAD), ABCO Technology Institute – Nov 2020
+Associate of Science in Computer Science, San Diego City College, CA – 2009
+CERTIFICATIONS & LICENSES
+•	Mobile Application Development certification (Android/iOS hybrid), ABCO Technology Institute – Nov 2020
+•	AWS Educate Introduction to Generative AI – Amazon Web Services – Jun 2024
+•	Embedded Systems and C – TestDome – Apr 2024
+•	Accredited Project Manager (APRM™) – 2019
+•	OSHA 30 – Oct 2019
+•	FCC Federal Communications License with GROL endorsement – 2003
+•	Advanced Fiber Optic Installation Technician License – 2003
